@@ -1,1 +1,1 @@
-# XAI-101
+# trustworthy_ai_notebooks
